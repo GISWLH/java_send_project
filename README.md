@@ -1,6 +1,8 @@
 # JAVA
 
+代码参考：
 
+https://github.com/GISWLH/java_send_project
 
 ## 任务目标
 
@@ -204,5 +206,5 @@ public class Sender {
 
 ```
 
-![result](D:\OneDrive\GitHub\java_send_project\result.png)
+![result](https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/result.png)
 
