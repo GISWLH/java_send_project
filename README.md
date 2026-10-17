@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![java_send_project — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 # JAVA
 
 代码参考：
@@ -208,3 +212,6 @@ public class Sender {
 
 ![result](https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/result.png)
 
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
